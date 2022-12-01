@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">layoutXml</string>
+    <string name="enter_the_price">Enter The Price</string>
+    <string name="select_vat_percenteg">Select Vat Percenteg</string>
+    <string name="round_up_totsl">Round Up Totsl ?</string>
+    <string name="calculate_vat">Calculate Vat</string>
+</resources>
